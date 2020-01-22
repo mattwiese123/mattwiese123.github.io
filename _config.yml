@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matt Wiese"
   avatar           : "profile.png"
-  bio              : | "Mathematician.\nData Scientist.\nLinux Admin."
+  bio              : "Mathematician.<br>Data Scientist.<br>Linux Admin."
   location         : "Lansing, MI"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
