@@ -1,10 +1,10 @@
 ---
-title: "College Algebra"
+title: "College Algebra Spring 2016" 
 collection: teaching
 type: "Course"
-permalink: /teaching/2015-fall-teaching-1
+permalink: /teaching/2016-spring-teaching
 venue: "Middle Tennessee State University, Mathematics Department"
-date: 2015-08-28
+date: 2016-01-18
 location: "Murfreesboro, TN, USA"
 ---
 
