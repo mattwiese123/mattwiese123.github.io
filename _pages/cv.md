@@ -62,7 +62,7 @@ Learning
 * Learning category theory via [Emily Riehl's fantastic book.](https://www.amazon.com/Category-Theory-Context-Aurora-Originals/dp/048680903X/ref=sr_1_1?keywords=emily+riehl&qid=1579741117&sr=8-1)
   * Chapter 1 :white_check_mark:
 * Learning algebraic topology via [Hatcher's fantastic book](https://www.amazon.com/Algebraic-Topology-Allen-Hatcher/dp/0521795400/ref=sr_1_1?keywords=hatcher+algebraic&qid=1579741077&sr=8-1) in concert with [Dr. Albin's excellent lectures.](https://www.youtube.com/watch?v=XxFGokyYo6g&list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
-  * Chapter 1 "white_check_mark:
+  * Chapter 1 :white_check_mark:
 * Learning abstract algebra via [Aluffi's fantastic book](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813/ref=sr_1_1?keywords=aluffi&qid=1579741309&sr=8-1) in concert with [Dr. Gross's famous lectures](https://www.youtube.com/watch?v=VdLhQs_y_E8&list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5)
   * Chapter 0 :white_check_mark:
 * Learning deep learning via [Dr. Ng's wonderful courses](https://www.coursera.org/specializations/deep-learning).
